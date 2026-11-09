@@ -2,6 +2,8 @@ import 'package:news_aggregator/src/domain/entities/news_article.dart';
 import 'package:news_aggregator/src/domain/entities/news_category.dart';
 import 'package:news_aggregator/src/domain/interfaces/news_repository.dart';
 
+/// Повертає новини, відфільтровані за категорією та/або закладками,
+/// від найновіших до найстаріших.
 class ListArticlesUseCase {
   final NewsRepository _repository;
 
