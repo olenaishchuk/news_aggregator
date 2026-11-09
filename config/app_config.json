@@ -1,0 +1,4 @@
+{
+  "storage": "memory",
+  "dataFile": "news.json"
+}
