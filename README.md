@@ -1,2 +1,4 @@
 # news_aggregator
-Новинний агрегатор. Clean Architecture, Dart
+
+Консольний новинний агрегатор. Лабораторна робота №5: шарувата архітектура
+(Clean Architecture) і командна робота в Git.
